@@ -1,0 +1,15 @@
+{
+  "name": "ims-deno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "deno src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "deno_ls_plugin": "^0.1.0",
+    "typescript": "^3.2.4"
+  }
+}
