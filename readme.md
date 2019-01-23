@@ -2,11 +2,12 @@
 
 解决 `deno` 代码提示和`.ts`后缀名问题
 
+Solve the problems of deno code hints and. TS suffix names
+
 # use
 
 ```
 git clone https://github.com/iwe7/deno-starter you-project-name
-
 ```
 
 # 配置 tsconfig.json 中`deno`路径
